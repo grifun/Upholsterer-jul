@@ -1,0 +1,6 @@
+./code/output.png
+145
+False
+70 112
+70 112
+70 112
